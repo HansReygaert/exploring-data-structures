@@ -1,6 +1,6 @@
-package creational.factory.method.abstractCreator;
+package creational.factory.methodFactory.concreteCreator;
 
-public class Circle implements Shape{
+public class Circle implements Shape {
 
   @Override
   public void draw() {
